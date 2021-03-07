@@ -1,0 +1,12 @@
+******** Welcome!!!! To Question And Answer Bank Website ********
+
+Here is basic guide for How to run website :
+
+1.Go to directory path where project is located and Activate virtual env.
+    cmd: source venv/bin/activate
+2.Go to project directory.
+    cmd: cd Question_Answer/
+3.Run website.
+    cmd: python manage.py runserver
+
+************************* Thank You *******************************
